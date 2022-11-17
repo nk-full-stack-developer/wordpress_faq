@@ -1,0 +1,21 @@
+.hidden{
+    display: none;
+}
+
+.faq-question{
+    background: #cfcfcf;
+    padding: 8px;
+    cursor: pointer;
+    border: 1px solid #6b6b6b;
+}
+
+.faq-answer{    
+    border-left: 1px solid #6b6b6b;
+    border-right: 1px solid #6b6b6b;
+    border-bottom: 1px solid #6b6b6b;
+    padding: 10px;
+}
+
+.faq-container{
+    margin-bottom: 5px;
+}
